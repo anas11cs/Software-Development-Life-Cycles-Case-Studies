@@ -2,18 +2,18 @@
 The document is a collection of different Software Development Life Cycles' case studies
 In this documentation below process models are studied under case studies provided by the link in each:
 
--> Rapid Applicaton Development Model
+Rapid Applicaton Development Model
 
--> Unifieid Process Model
+Unifieid Process Model
 
--> Agile Model
+Agile Model
 
--> V-Model
+V-Model
 
--> Spiral Model
+Spiral Model
 
--> Prototyping Model
+Prototyping Model
 
--> Incremental Model
+Incremental Model
 
--> Waterfall Model
+Waterfall Model
